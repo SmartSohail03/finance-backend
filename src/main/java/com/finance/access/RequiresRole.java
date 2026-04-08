@@ -1,4 +1,3 @@
-// access/RequiresRole.java
 package com.finance.access;
 
 import com.finance.model.Role;
